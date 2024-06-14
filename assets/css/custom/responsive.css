@@ -1,0 +1,449 @@
+/*------------------- MEDIA QUERRY (RESPONSIVE FOR MAXIMUM 1920PX) SECTION START ---------------*/
+@media only screen and (max-width: 1920px) {}
+
+/*------------------- MEDIA QUERRY (RESPONSIVE FOR MAXIMUM 1920PX) SECTION COMPLETED ---------------*/
+
+/*------------------- MEDIA QUERRY (RESPONSIVE FOR MAXIMUM 1599PX) SECTION START ---------------*/
+@media only screen and (max-width: 1599px) {
+
+
+    /* Service */
+
+    .section .Service_text {
+        margin-top: 4rem;
+    }
+
+
+    /* Service */
+
+
+    /* About */
+
+    .about {
+        margin: 17rem auto 0;
+    }
+
+    /* About */
+
+
+}
+
+/*------------------- MEDIA QUERRY (RESPONSIVE FOR MAXIMUM 1599PX) SECTION COMPLETED ---------------*/
+
+/*------------------- MEDIA QUERRY (RESPONSIVE FOR MAXIMUM 1299PX) SECTION START ---------------*/
+@media only screen and (max-width: 1299px) {
+
+
+    /* Service */
+
+    .section .Service_img {
+        width: 50%;
+        margin-top: 1rem;
+    }
+
+
+    .section .Service_text {
+        width: 40%;
+    }
+
+    .details .details-img {
+        height: 75px;
+        width: 75px;
+    }
+
+
+    .section#Service .slide-bg-text.small-bg-text p {
+        font-size: 11rem;
+        line-height: 8rem;
+    }
+
+    /* Service */
+
+    /* About */
+
+    .slide-bg-text p {
+        font-size: 10rem;
+        line-height: 10rem;
+    }
+
+    .about {
+        margin: 13rem auto 0;
+    }
+
+
+
+    /* About */
+
+}
+
+/*------------------- MEDIA QUERRY (RESPONSIVE FOR MAXIMUM 1299PX) SECTION COMPLETED ---------------*/
+
+/*------------------- MEDIA QUERRY (RESPONSIVE FOR MAXIMUM 992PX) SECTION START ---------------*/
+
+@media only screen and (max-width: 992px) {
+
+    section.main .jumbotron {
+        padding: 1rem 1rem;
+    }
+
+
+    /* Service */
+
+    .section .Service_img {
+        width: 60%;
+    }
+
+    .section .Service_text {
+        width: 35%;
+        margin-top: 3rem;
+    }
+
+    .details .details-img {
+        height: 70px;
+        width: 70px;
+    }
+
+    .box-card .office {
+        width: 60%;
+    }
+
+
+    .details p.name {
+        font-size: 0.6rem;
+        line-height: 0.8rem;
+    }
+
+    .office-type h6 {
+        font-size: 0.9rem;
+        line-height: 1rem;
+    }
+
+    .section#Service .slide-bg-text.small-bg-text p {
+        font-size: 9rem;
+        line-height: 9rem;
+    }
+
+
+    .dot.kolkata {
+        top: 47%;
+    }
+
+    .show-kolkata {
+        left: 68%;
+    }
+
+    .show-Raigarh {
+        left: 31%;
+    }
+
+    .show-Vadodara {
+        left: 31%;
+    }
+
+
+    /* Service */
+
+
+
+
+
+    /* About */
+
+
+    .slide-bg-text p {
+        font-size: 8rem;
+        line-height: 8rem;
+    }
+
+    .about-text p {
+        font-size: 0.9rem;
+        line-height: 1.3rem;
+    }
+
+
+    /* About */
+
+
+
+}
+
+/*------------------- MEDIA QUERRY (RESPONSIVE FOR MAXIMUM 992PX) SECTION COMPLETED ---------------*/
+
+/*------------------- MEDIA QUERRY (RESPONSIVE FOR MAXIMUM 768PX) SECTION START ---------------*/
+
+@media only screen and (max-width: 768px) {
+
+
+
+    /* Service */
+
+
+    .section#Service .slide-bg-text.small-bg-text p {
+        font-size: 7rem;
+        line-height: 7rem;
+    }
+
+    .section .Service_img {
+        width: 65%;
+        margin-top: 5rem;
+    }
+
+    .dot i {
+        font-size: 1rem;
+    }
+
+    .dot:hover i {
+        font-size: 1.2rem;
+    }
+
+    .dot {
+        height: 16px;
+        width: 15px;
+    }
+
+    .dot.kolkata {
+        top: 46%;
+    }
+
+    .dot.kolkata:hover {
+        top: 45%;
+    }
+
+    .show-kolkata {
+        top: 43%;
+        left: 69%;
+    }
+
+    .show {
+        width: 80px;
+    }
+
+    .section .Service_text {
+        height: auto;
+        width: 30%;
+        margin-top: 3rem;
+    }
+
+    .section .Service_text .box {
+        height: 350px;
+        overflow-y: scroll;
+    }
+
+
+    .box-card .details {
+        width: 100%;
+        text-align: center;
+    }
+
+    .details .details-img {
+        height: 75px;
+        width: 75px;
+    }
+
+    .section .Service_text .box .box-card {
+        flex-wrap: wrap;
+        flex-direction: column-reverse;
+    }
+
+    .box-card .office {
+        width: 100%;
+    }
+
+    .office .office-type {
+        text-align: center;
+    }
+
+    /* Service */
+
+
+    /* About */
+
+
+    .about {
+        margin: 15rem auto 0;
+    }
+
+    .about .about-logo-img {
+        width: 45%;
+
+    }
+
+
+    .about-text p {
+        font-size: 0.9rem;
+        line-height: 1.3rem;
+    }
+
+    .clients-list .clients-info h4 {
+        font-size: 0.9rem;
+        line-height: 1rem;
+        font-weight: 400;
+
+    }
+
+    .clients-list .clients-info h6 {
+        font-size: 0.7rem;
+        line-height: 1rem;
+        font-weight: 300;
+
+    }
+
+
+
+    /* About */
+}
+
+/*------------------- MEDIA QUERRY (RESPONSIVE FOR MAXIMUM 768PX) SECTION COMPLETED ---------------*/
+
+/*------------------- MEDIA QUERRY (RESPONSIVE FOR MAXIMUM 576PX) SECTION START ---------------*/
+
+@media only screen and (max-width: 576px) {
+
+    /* Service */
+
+    .section#Service .slide-bg-text.small-bg-text p {
+        font-size: 6rem;
+        line-height: 6rem;
+    }
+
+
+    .service {
+        justify-content: center !important;
+    }
+
+    .section .Service_img {
+        width: 100%;
+        margin-top: 2.5rem;
+    }
+
+    .section .Service_text {
+        height: 150px;
+        width: 80%;
+        margin-top: -6rem;
+        overflow-y: auto;
+    }
+
+
+    /* Service */
+
+    /* About */
+
+
+    .slide-bg-text p {
+        font-size: 5rem;
+        line-height: 5rem;
+
+    }
+
+    .about {
+        flex-direction: column;
+        justify-content: center !important;
+        height: auto;
+        /* margin: 6rem auto; */
+        margin: 15rem auto;
+    }
+
+    .about .about-logo-img {
+        width: 50%;
+
+    }
+
+    .about .about-text {
+        width: 70%;
+        text-align: center;
+    }
+
+    .about-text p {
+        margin-top: 2rem;
+    }
+
+
+    .clients-list .clients-info h4 {
+        color: #fff;
+        font-size: 0.7rem;
+        line-height: 1rem;
+        font-weight: 400;
+        letter-spacing: 1px;
+        margin-bottom: 0.3rem;
+    }
+
+    .clients-list .clients-info h6 {
+        color: #00f020ca;
+        font-size: 0.6rem;
+        line-height: 1rem;
+        font-weight: 300;
+        margin-bottom: 0;
+        padding: 0.2rem 0.5rem;
+        background: linear-gradient(to right, #00f0202a, transparent);
+        border-left: 2px solid #00f020ca;
+    }
+
+
+
+    /* .item {
+        margin: 0 1rem;
+    } */
+
+    /* About */
+}
+
+/*------------------- MEDIA QUERRY (RESPONSIVE FOR MAXIMUM 576PX) SECTION COMPLETED ---------------*/
+
+/*------------------- MEDIA QUERRY (RESPONSIVE FOR MAXIMUM 375PX) SECTION START ---------------*/
+
+@media only screen and (max-width: 375px) {
+
+    /* About */
+
+    /* .section#About .slide-bg-text {
+        top: 6%;
+    }
+
+    .section#About .slide-bg-text.small-bg-text>p:last-child {
+        padding-left: 0.5rem;
+    } */
+
+    .slide-bg-text p {
+        font-size: 4rem;
+        line-height: 4rem;
+    }
+
+    .about-text p {
+        font-size: 0.6rem;
+        line-height: 1rem;
+    }
+
+    .about .about-logo-img {
+        width: 60%;
+    }
+
+    .clients-list .clients-info h4 {
+        color: #fff;
+        font-size: 0.7rem;
+        line-height: 1rem;
+        font-weight: 400;
+        letter-spacing: 1px;
+        margin-bottom: 0.3rem;
+    }
+
+    .clients-list .clients-info h6 {
+        color: #00f020ca;
+        font-size: 0.6rem;
+        line-height: 1rem;
+        font-weight: 300;
+        margin-bottom: 0;
+        padding: 0.2rem 0.5rem;
+        background: linear-gradient(to right, #00f0202a, transparent);
+        border-left: 2px solid #00f020ca;
+    }
+
+    .item {
+        margin: 0 1rem;
+    }
+
+
+    /* About */
+
+}
+
+/*------------------- MEDIA QUERRY (RESPONSIVE FOR MAXIMUM 375PX) SECTION COMPLETED ---------------*/
